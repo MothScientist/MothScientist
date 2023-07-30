@@ -27,5 +27,5 @@
 
 
 
-## LeetCode stats:
+## <a href="https://leetcode.com/Roman_AIQ/">LeetCode</a> stats:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Roman_AIQ&theme=dark)](https://github.com/KnlnKS/leetcode-stats)</br>
