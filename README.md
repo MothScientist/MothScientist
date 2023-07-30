@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I`m+Roman+👋)](https://git.io/typing-svg)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MothScientist&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 ## *Technology stack:* </br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -23,9 +24,7 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
 ## Programming languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MothScientist)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MothScientist&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <a href="https://leetcode.com/Roman_AIQ/">LeetCode</a> stats:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Roman_AIQ&theme=dark)](https://github.com/KnlnKS/leetcode-stats)</br>
