@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I`m+Roman+👋)](https://git.io/typing-svg)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MothScientist&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-# About Me
-#### Physics student, beginner backend developer. 
-#### I actively study data structures, solve problems on LeetCode and improve my programming skills. Programming Arduino and various ESP modules.</br></br>
 ## *Technology stack:* </br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
