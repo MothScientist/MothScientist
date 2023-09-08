@@ -1,6 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%483d8b&lines=Hi+there,+I`m+Roman+👋)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MothScientist&show_icons=true&theme=synthwave&hide=issues,contribs)
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MothScientist)](https://github.com/anuraghazra/github-readme-stats)
+
 ## *Technology stack:* </br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
