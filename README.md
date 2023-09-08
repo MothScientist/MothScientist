@@ -25,7 +25,7 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
 ## Programming languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MothScientist&theme=synthwave&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MothScientist&theme=synthwave&layout=compact)
 
 ## <a href="https://leetcode.com/Roman_AIQ/">LeetCode</a> stats:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Roman_AIQ&theme=dark)](https://github.com/KnlnKS/leetcode-stats)</br>
