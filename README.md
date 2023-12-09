@@ -21,7 +21,5 @@
 
 ![GIF](any.gif)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MothScientist&theme=buefy&layout=compact)
-
 ### <a href="https://leetcode.com/Roman_AIQ/">LeetCode link</a>
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Roman_AIQ)](https://github.com/KnlnKS/leetcode-stats)</br>
