@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=aqua&lines=Hi+there,+I`m+Roman+👋)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MothScientist&show_icons=true&theme=synthwave&hide=issues,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MothScientist&show_icons=true&theme=midnight-purple)
 
 ## Technology stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -21,7 +21,7 @@
 
 ![GIF](any.gif)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MothScientist&theme=synthwave&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MothScientist&theme=buefy&layout=compact)
 
 ### <a href="https://leetcode.com/Roman_AIQ/">LeetCode link</a>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Roman_AIQ&theme=dark)](https://github.com/KnlnKS/leetcode-stats)</br>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Roman_AIQ)](https://github.com/KnlnKS/leetcode-stats)</br>
