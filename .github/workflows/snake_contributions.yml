@@ -9,8 +9,8 @@ on:
   pull_request:
 jobs:
   generate:
-    permissions: write
-      contents: ubuntu-latest
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 1
     
