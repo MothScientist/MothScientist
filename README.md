@@ -11,5 +11,4 @@
 
 ![GIF](any.gif)</br></br>
 
-<a href="https://leetcode.com/Roman_AIQ/">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=100&color=D309FF&random=false&width=350&height=35&lines=LeetCode)](https://git.io/typing-svg)</a></br>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Roman_AIQ)](https://github.com/KnlnKS/leetcode-stats)</br>
+<a href="https://leetcode.com/Roman_AIQ/">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=100&color=D309FF&random=false&width=350&height=35&lines=LeetCode)](https://leetcode.com/Roman_AIQ/)</a></br>
