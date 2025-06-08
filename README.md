@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=D309FF&vCenter=true&random=false&width=500&lines=Hi+there%2C+I%60m+Roman;Backend+dev.+(Python,+Go,+SQL);DevOps+(linux,+.sh,+Docker,+k8s))](https://github.com/MothScientist)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MothScientist&show_icons=true&theme=midnight-purple)</br>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MothScientist&show_icons=true&theme=midnight-purple)</br> -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MothScientist&layout=compact)</br>
 
